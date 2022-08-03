@@ -1,0 +1,4 @@
+[submodule "framework_example"]
+	path = framework_example
+	url = /Users/aleksandrprutko/work/framework_example
+	branch = quantization
